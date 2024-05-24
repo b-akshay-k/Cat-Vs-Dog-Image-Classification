@@ -1,6 +1,8 @@
 # Cat vs Dog Image Classification using Convolutional Neural Networks (CNN)
 <img src = 'https://cdn.analyticsvidhya.com/wp-content/uploads/2024/02/Cat-and-Dog-Classification-80.jpg' height=500, width=1000 img>
+
 **Overview**
+
 - This project involves building a Convolutional Neural Network (CNN) to classify images of cats and dogs. Leveraging deep learning techniques, the goal is to create an accurate and robust model that can effectively distinguish between these two classes. The project includes data preprocessing, model development, evaluation, and deployment.
 
 **Dataset**
