@@ -35,7 +35,7 @@
 - Implement Grad-CAM to interpret model predictions.
 - 
 **Clone the repository**
-  - git clone https://github.com/your-username/cats-vs-dogs-classification.git
+  - git clone https://github.com/b-akshay-k/cats-vs-dogs-classification.git
 **Navigate to the project directory:**
 - cd cats-vs-dogs-classification
 - 
